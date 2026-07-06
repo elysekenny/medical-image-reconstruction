@@ -15,8 +15,8 @@ There are 2 categories of interactable objects in this game described below. </b
 - The strength of the toxins are upgraded as the building that produces them gets upgraded </br> </br>
 
 # **Control Scheme (WIP)** 
-[WASD]               -> Pan camera </br>
-[MOUSE SCROLL WHEEL] -> Zoom in/ out </br>
-[QE]                 -> Rotate camera left/ right </br>
-[LEFT CLICK]         -> Select _Moveable Troop_ </br>
-[RIGHT CLICK]        -> (With _Moveable Troop_ selected) Move to destination
+[WASD]                     -> Pan camera </br>
+[MOUSE SCROLL WHEEL]       -> Zoom in/ out </br>
+[RIGHT CLICK + MOUSE MOVE] -> Rotate camera left/ right </br>
+[LEFT CLICK]               -> Select _Moveable Troop_ OR _Static Building_ </br>
+[LEFT CLICK]               -> (With _Moveable Troop_ selected) Move to destination
